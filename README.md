@@ -18,9 +18,8 @@ Hi, my name is Felipe Gomes, I'm a Full Stack developer with 3 years of experien
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipegomes12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 ## Tools 🛠️
+
 <div align="center" style="">
-  <img src="" height="30" alt="Email"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
