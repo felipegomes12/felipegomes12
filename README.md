@@ -4,7 +4,7 @@
   src="https://cdn.fegds-domain.pro/eu.jpeg"
   height="200"
   alt="Eu"
-  style="border-radius: 6px;"
+  style="border-radius: 20px;"
 />
 ##### Brazilian <img src="https://cdn.fegds-domain.pro/brasil.png" height="25" alt="brasil"  />
 ##### 27 Years Old
