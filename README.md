@@ -2,7 +2,7 @@
 # Felipe Gomes
 <img 
   src="https://cdn.fegds-domain.pro/eu.jpeg"
-  height="40"
+  height="200"
   alt="Eu"
   style="border-radius: 6px;"
 />
