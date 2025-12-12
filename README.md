@@ -1,5 +1,11 @@
 
 # Felipe Gomes
+<img 
+  src="https://cdn.fegds-domain.pro/eu.jpeg"
+  height="40"
+  alt="Eu"
+  style="border-radius: 6px;"
+/>
 ##### Brazilian <img src="https://cdn.fegds-domain.pro/brasil.png" height="25" alt="brasil"  />
 ##### 27 Years Old
 ##### business E-mail felipe.gdasilva.corporativo@gmail.com <img src="https://cdn.fegds-domain.pro/gmail.png" height="15" alt="Email"  />
