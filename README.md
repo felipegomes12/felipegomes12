@@ -48,3 +48,21 @@ Hi, my name is Felipe Gomes, I'm a Full Stack developer with 3 years of experien
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
 </div>
+
+## Study 👨🏽‍🎓
+
+Information Technology Management – ​​FATEC –
+Technological College of Itu.
+Currently in the 6th semester.
+<div align="center" style="">
+  <img 
+    src="https://cdn.fegds-domain.pro/fatec-itu.jpg"
+    height="500"
+    alt="Eu"
+    style="border-radius: 20px;"
+  />
+</div>
+
+Python Course – Huawei ICT Academy / FATEC 96 hours - 2025
+
+Idiomas – Certificação - de Proficiência em Inglês – TOEIC (ETS) Listening & Reading Test 880 Pontos Nível B2/C1 CEFR
